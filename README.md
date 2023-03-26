@@ -23,6 +23,8 @@ Make a change to the file and save it then run the following commands to the rem
 ```bash
 git checkout -b mycoolfeature
 git add . 
+# lets check that out chages are 'staged' 
+git status
 git commit -m "here's my cool feature" 
 git push 
 ```
